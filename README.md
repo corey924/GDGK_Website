@@ -7,7 +7,7 @@ GDGK Web
 
 
 # 連結
-* [Google Developer Groups Kaohsiung](https://gdgkoahsiung.github.io/GDGK_Website/)
+* [https://gdgkoahsiung.github.io/GDGK_Website/](https://gdgkoahsiung.github.io/GDGK_Website/)
 
 ## 相關連結
 
