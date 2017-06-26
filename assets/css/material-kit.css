@@ -3220,6 +3220,10 @@ h2.title {
     padding: 15px;
   }
 
+  .card .content img {
+    margin-bottom: 15px;
+  }
+
   .card .card-body {
     height: 30%;
     padding: 18px;
