@@ -7,7 +7,7 @@ GDGK Web
 
 
 # 連結
-* [https://gdgkoahsiung.github.io/GDGK_Website/](https://gdgkoahsiung.github.io/GDGK_Website/)
+* [http://gdgk.ga](http://gdgk.ga)
 
 ## 相關連結
 
